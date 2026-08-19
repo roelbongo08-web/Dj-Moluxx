@@ -7,7 +7,7 @@
   <br>
 
   <!-- Hero Image (Ilisan ang link sa ubos sa imong tinuod nga raw github image link) -->
-  my youtube videos"https://raw.githubusercontent.com/IMONG_USERNAME/IMONG_REPO/main/<img width="512" height="280" alt="unnamed" src="https://github.com/user-attachments/assets/80c9a301-65e1-4785-8e21-9513e8182f9a" />
+  my youtube videos"https://raw.githubusercontent.com/IMONG_USERNAME/IMONG_REPO/main/<img width="512" height="280" alt="unnamed" src="https://roelbongo08-web.github.io/Dj-Moluxx/" />
 
 
   <br><br>
